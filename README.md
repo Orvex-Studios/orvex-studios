@@ -1,8 +1,20 @@
 # orvex-studios
+
 Official Orvex Studios repository. All rights reserved. Unauthorized use, copying, modification, or distribution of our content is prohibited without permission.
+
 # Orvex Studios — Copyright & Usage Policy
 
 Copyright © 2026 Orvex Studios. All rights reserved.
+
+## Scope of This Policy
+
+This policy applies exclusively to the following official Orvex Studios projects:
+
+- **AnyForge**
+- **AetherTune**
+- **Inteldium**
+
+All terms and restrictions outlined below apply specifically to these projects and their associated content, assets, and source code.
 
 ## Permitted Use
 - You may download and use our mods for personal gameplay.
@@ -10,6 +22,7 @@ Copyright © 2026 Orvex Studios. All rights reserved.
 - You may showcase our mods in videos, provided proper credit is given.
 
 ## Prohibited Use
+
 Without prior written permission from Orvex Studios, you may not:
 
 - Copy, redistribute, reupload, or republish our mods or their source code.
@@ -20,11 +33,13 @@ Without prior written permission from Orvex Studios, you may not:
 - Use our content for commercial purposes.
 
 ## Intellectual Property
+
 All rights to Orvex Studios' name, logo, branding, and original content remain with their respective rights holders.
 
 Downloading or using our mods does not grant ownership of our intellectual property or permission to redistribute our work.
 
 ## Permissions
+
 For permissions, collaborations, or licensing inquiries, please contact Orvex Studios through our official channels.
 
 Unauthorized use of our intellectual property may result in appropriate action.
